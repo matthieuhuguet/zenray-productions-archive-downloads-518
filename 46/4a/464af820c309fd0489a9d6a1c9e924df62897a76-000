@@ -1,0 +1,35 @@
+browsing…
+device: iPhone Matthieu Huguet
+session open err=Optional(Error Domain=com.apple.ImageCaptureCore Code=-9943 "Please unlock “iPhone Matthieu Huguet”" UserInfo={NSLocalizedDescription=Please unlock “iPhone Matthieu Huguet”})
+catalog: 7479 files
+deleting 7467 verified files from device
+delete err Error Domain=com.apple.ImageCaptureCore Code=-9941 "Delete files failed." UserInfo={NSLocalizedDescription=Delete files failed.}
+deleted 512/7467
+delete err Error Domain=com.apple.ImageCaptureCore Code=-9941 "Delete files failed." UserInfo={NSLocalizedDescription=Delete files failed.}
+deleted 1024/7467
+delete err Error Domain=com.apple.ImageCaptureCore Code=-9941 "Delete files failed." UserInfo={NSLocalizedDescription=Delete files failed.}
+deleted 1536/7467
+delete err Error Domain=com.apple.ImageCaptureCore Code=-9941 "Delete files failed." UserInfo={NSLocalizedDescription=Delete files failed.}
+deleted 2048/7467
+delete err Error Domain=com.apple.ImageCaptureCore Code=-9941 "Delete files failed." UserInfo={NSLocalizedDescription=Delete files failed.}
+deleted 2560/7467
+delete err Error Domain=com.apple.ImageCaptureCore Code=-9941 "Delete files failed." UserInfo={NSLocalizedDescription=Delete files failed.}
+deleted 3072/7467
+delete err Error Domain=com.apple.ImageCaptureCore Code=-9941 "Delete files failed." UserInfo={NSLocalizedDescription=Delete files failed.}
+deleted 3584/7467
+delete err Error Domain=com.apple.ImageCaptureCore Code=-9941 "Delete files failed." UserInfo={NSLocalizedDescription=Delete files failed.}
+deleted 4096/7467
+delete err Error Domain=com.apple.ImageCaptureCore Code=-9941 "Delete files failed." UserInfo={NSLocalizedDescription=Delete files failed.}
+deleted 4608/7467
+delete err Error Domain=com.apple.ImageCaptureCore Code=-9941 "Delete files failed." UserInfo={NSLocalizedDescription=Delete files failed.}
+deleted 5120/7467
+delete err Error Domain=com.apple.ImageCaptureCore Code=-9941 "Delete files failed." UserInfo={NSLocalizedDescription=Delete files failed.}
+deleted 5632/7467
+delete err Error Domain=com.apple.ImageCaptureCore Code=-9941 "Delete files failed." UserInfo={NSLocalizedDescription=Delete files failed.}
+deleted 6144/7467
+delete err Error Domain=com.apple.ImageCaptureCore Code=-9941 "Delete files failed." UserInfo={NSLocalizedDescription=Delete files failed.}
+deleted 6656/7467
+delete err Error Domain=com.apple.ImageCaptureCore Code=-9941 "Delete files failed." UserInfo={NSLocalizedDescription=Delete files failed.}
+deleted 7168/7467
+delete err Error Domain=com.apple.ImageCaptureCore Code=-9941 "Delete files failed." UserInfo={NSLocalizedDescription=Delete files failed.}
+deleted 7467/7467
